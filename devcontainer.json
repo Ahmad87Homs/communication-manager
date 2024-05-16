@@ -1,0 +1,15 @@
+//devcontainer.json
+{
+    "name": "c++Container",
+    "build": { "dockerfile": "Dockerfile" },
+
+    "customizations": {
+      "vscode": {
+        "extensions": ["dbaeumer.vscode-eslint"]
+      }
+    },
+    "mounts": [
+      "source=./app,target=/test/,type=bind,consistency=cached"
+    ],    
+    "forwardPorts": [3000]
+  }
