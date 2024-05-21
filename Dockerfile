@@ -5,12 +5,12 @@ FROM ubuntu:22.04
 #install python on image 
 
 RUN \
-apt-get update && \
-apt-get install -y build-essential  && \
-apt-get install -y git && \
-apt-get install -y cmake && \
-apt-get install -y python3 
-
+apt update && \
+apt install -y build-essential  && \
+apt install -y git && \
+apt install -y cmake && \
+apt install -y python3 && \
+apt install -y pip 
 
 #create a directory for our tests 
 

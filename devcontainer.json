@@ -1,15 +1,16 @@
 //devcontainer.json
 {
-    "name": "c++Container",
+    "name": "cppContainer",
     "build": { "dockerfile": "Dockerfile" },
 
     "customizations": {
       "vscode": {
-        "extensions": ["dbaeumer.vscode-eslint"]
+        "extensions": ["dbaeumer.vscode-eslint","ms-vscode.cpptools","twxs.cmake","ms-vscode.cmake-tools"]
       }
     },
     "mounts": [
       "source=./app,target=/test/,type=bind,consistency=cached"
     ],    
-    "forwardPorts": [3000]
+    "forwardPorts": [3000],
+    "postCreateCommand": "cd app && pip install conan && echo Hello from container "
   }

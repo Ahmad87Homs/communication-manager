@@ -95,3 +95,84 @@ operable program or batch file.
 operable program or batch file.
 
 2024-05-15 22:26:44 info: Java installed on machine.
+2024-05-16 21:56:32 info: Congratulations, your extension "Embold" is now active!
+2024-05-16 21:56:33 info: tempDirectory : c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 21:56:34 info: Extraction complete for source: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 21:56:34 info: Extension installed on machine OS : win32
+2024-05-16 21:56:34 info: Fetched the issues from DB
+2024-05-16 21:56:35 error: ERROR checking java version : Error: Command failed: java -version
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 21:56:35 info: JAVA is not installed on the system,Please install JAVA (1.8 or higher version) to use embold extension'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 21:56:35 info: Java installed on machine.
+2024-05-16 21:56:35 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-05-16 21:56:35 info: Current installed embold extension version : 0.1.8
+2024-05-16 21:56:35 info: Latest embold extension version on marketplace : 0.1.6
+2024-05-16 22:00:31 info: Congratulations, your extension "Embold" is now active!
+2024-05-16 22:00:31 info: tempDirectory : c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 22:00:32 info: Extraction complete for source: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 22:00:32 info: Extension installed on machine OS : win32
+2024-05-16 22:00:32 info: Fetched the issues from DB
+2024-05-16 22:00:33 error: ERROR checking java version : Error: Command failed: java -version
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 22:00:33 info: JAVA is not installed on the system,Please install JAVA (1.8 or higher version) to use embold extension'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 22:00:33 info: Java installed on machine.
+2024-05-16 22:00:33 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-05-16 22:00:33 info: Current installed embold extension version : 0.1.8
+2024-05-16 22:00:33 info: Latest embold extension version on marketplace : 0.1.6
+2024-05-16 22:03:55 info: Congratulations, your extension "Embold" is now active!
+2024-05-16 22:03:55 info: tempDirectory : c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 22:03:56 info: Extraction complete for source: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 22:03:56 info: Extension installed on machine OS : win32
+2024-05-16 22:03:56 info: Fetched the issues from DB
+2024-05-16 22:03:56 error: ERROR checking java version : Error: Command failed: java -version
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 22:03:56 info: JAVA is not installed on the system,Please install JAVA (1.8 or higher version) to use embold extension'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 22:03:56 info: Java installed on machine.
+2024-05-16 22:03:57 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-05-16 22:03:57 info: Current installed embold extension version : 0.1.8
+2024-05-16 22:03:57 info: Latest embold extension version on marketplace : 0.1.6
+2024-05-16 22:10:05 info: Congratulations, your extension "Embold" is now active!
+2024-05-16 22:10:05 info: tempDirectory : c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 22:10:07 info: Extraction complete for source: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-16 22:10:07 info: Extension installed on machine OS : win32
+2024-05-16 22:10:07 info: Fetched the issues from DB
+2024-05-16 22:10:07 error: ERROR checking java version : Error: Command failed: java -version
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 22:10:07 info: JAVA is not installed on the system,Please install JAVA (1.8 or higher version) to use embold extension'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-16 22:10:07 info: Java installed on machine.
+2024-05-16 22:10:07 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-05-16 22:10:07 info: Current installed embold extension version : 0.1.8
+2024-05-16 22:10:07 info: Latest embold extension version on marketplace : 0.1.6
+2024-05-16 22:10:21 info: Row(s) deleted
+2024-05-21 20:51:41 info: Congratulations, your extension "Embold" is now active!
+2024-05-21 20:51:41 info: tempDirectory : c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-21 20:51:42 info: Extraction complete for source: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\resources\embold-scanner-archive.zip, destination: c:\Users\ahmad\.vscode\extensions\embold-vscode.embold-0.1.8\temp
+2024-05-21 20:51:42 info: Extension installed on machine OS : win32
+2024-05-21 20:51:42 info: Fetched the issues from DB
+2024-05-21 20:51:42 error: ERROR checking java version : Error: Command failed: java -version
+'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-21 20:51:42 info: JAVA is not installed on the system,Please install JAVA (1.8 or higher version) to use embold extension'java' is not recognized as an internal or external command,
+operable program or batch file.
+
+2024-05-21 20:51:42 info: Java installed on machine.
+2024-05-21 20:51:42 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-05-21 20:51:42 info: Current installed embold extension version : 0.1.8
+2024-05-21 20:51:42 info: Latest embold extension version on marketplace : 0.1.6
